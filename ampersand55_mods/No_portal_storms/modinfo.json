@@ -1,0 +1,15 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "no_portal_storms",
+    "name": "No portal storms",
+    "authors": [ "ampersand55" ],
+    "description": "Removes portal storms from the game.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "EOC_PORTAL_STORM_WARN_OR_CAUSE_RECURRING"
+  }
+]
