@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "global_spawning_adjust",
+    "name": "Global spawning adjustments.",
+    "authors": [ "ampersand55" ],
+    "description": "Makes globally unique buildings able to spawn once per overmap instead.  Refugee Center, Hub 01 and Exodii base are still globally unique",
+    "category": "misc_additions",
+    "version": "2024-10-24",
+    "dependencies": [ "dda" ]
+  }
+]

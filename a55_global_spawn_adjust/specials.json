@@ -1,0 +1,117 @@
+[
+  {
+    "id": "farm_abandoned",
+    "copy-from": "farm_abandoned",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "Occupied LMOE Shelter",
+    "copy-from": "Occupied LMOE Shelter",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "Hunting Lodge Glooscap",
+    "copy-from": "Hunting Lodge Glooscap",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "gas station bunker",
+    "copy-from": "gas station bunker",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "cabin_liam",
+    "copy-from": "cabin_liam",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "Island prison",
+    "copy-from": "Occupied LMOE Shelter",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "New England Church Retreat",
+    "copy-from": "New England Church Retreat",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "ranch_camp",
+    "copy-from": "ranch_camp",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "isolated_road",
+    "copy-from": "isolated_road",
+    "//": "Cody & Jay",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "gun_show",
+    "copy-from": "gun_show",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "Barry's Mi-Go Scout Tower",
+    "copy-from": "Barry's Mi-Go Scout Tower",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "mil_base",
+    "copy-from": "mil_base",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "Bastion Fort",
+    "copy-from": "Bastion Fort",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "nursing_home_sh",
+    "copy-from": "nursing_home_sh",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "physics_lab_LIXA",
+    "copy-from": "physics_lab_LIXA",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "Militia Lodge",
+    "copy-from": "Militia Lodge",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "nuclear power plant",
+    "copy-from": "nuclear power plant",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "aircraft_carrier",
+    "copy-from": "aircraft_carrier",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  },
+  {
+    "id": "deserter_city",
+    "copy-from": "deserter_city",
+    "delete": { "flags": [ "GLOBALLY_UNIQUE" ] },
+    "extend": { "flags": [ "OVERMAP_UNIQUE" ] }
+  }
+]
