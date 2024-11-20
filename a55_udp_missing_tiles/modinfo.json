@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "missing_tiles_for_udp",
+    "name": "More UndeadPeople monster tiles",
+    "authors": [ "ampersand55" ],
+    "description": "Adds some missing monster tiles for UndeadPeople tileset from MShockXotto+.",
+    "category": "graphical",
+    "dependencies": [ "dda" ]
+  }
+]
