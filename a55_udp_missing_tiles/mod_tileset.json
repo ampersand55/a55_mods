@@ -4,12 +4,12 @@
     "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockXottoplus", "UNDEAD_PEOPLE_LIGHT", "MSX++DEAD_PEOPLE", "MSXotto+" ],
     "tiles-new": [
       {
-        "file": "corpse_mon_zombie_kevlar_1.png",
+        "file": "corpse_mon_zombie_kevlar.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "corpse_mon_zombie_kevlar_1", "fg": 1 } ]
+        "tiles": [ { "id": "corpse_mon_zombie_kevlar", "fg": 1 } ]
       },
       {
         "file": "corpse_mon_zap_rat.png",
@@ -324,108 +324,28 @@
         "tiles": [ { "id": "corpse_mon_big_rat", "fg": 40 } ]
       },
       {
-        "file": "corpse_mon_antlion_larva.png",
-        "sprite_width": 32,
-        "sprite_height": 32,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "corpse_mon_antlion_larva", "fg": 41 } ]
-      },
-      {
         "file": "broken_robofac_camspy.png",
         "sprite_width": 32,
         "sprite_height": 48,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "broken_robofac_camspy", "fg": 42 } ]
+        "tiles": [ { "id": "broken_robofac_camspy", "fg": 41 } ]
       },
       {
-        "file": "mon_raven.png",
+        "file": "corpse_mon_antlion_larva.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_raven", "fg": 43 } ]
+        "tiles": [ { "id": "corpse_mon_antlion_larva", "fg": 42 } ]
       },
       {
-        "file": "mon_nether_unviable_chunk.png",
-        "sprite_width": 20,
-        "sprite_height": 20,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_nether_unviable_chunk", "fg": 44 } ]
-      },
-      {
-        "file": "mon_moorhen.png",
+        "file": "mon_green_frog.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_moorhen", "fg": 45 } ]
-      },
-      {
-        "file": "mon_mantis_small.png",
-        "sprite_width": 32,
-        "sprite_height": 32,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_mantis_small", "fg": 46 } ]
-      },
-      {
-        "file": "mon_mantis_mega.png",
-        "sprite_width": 64,
-        "sprite_height": 80,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_mantis_mega", "fg": 47 } ]
-      },
-      {
-        "file": "mon_llama.png",
-        "sprite_width": 48,
-        "sprite_height": 48,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_llama", "fg": 48 } ]
-      },
-      {
-        "file": "mon_lady_bug_larva.png",
-        "sprite_width": 32,
-        "sprite_height": 32,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_lady_bug_larva", "fg": 49 } ]
-      },
-      {
-        "file": "mon_lady_bug_giant.png",
-        "sprite_width": 64,
-        "sprite_height": 80,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_lady_bug_giant", "fg": 50 } ]
-      },
-      {
-        "file": "mon_lady_bug.png",
-        "sprite_width": 32,
-        "sprite_height": 32,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_lady_bug", "fg": 51 } ]
-      },
-      {
-        "file": "mon_lab_ratkin.png",
-        "sprite_width": 32,
-        "sprite_height": 32,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_lab_ratkin", "fg": 52 } ]
-      },
-      {
-        "file": "mon_hummingbird.png",
-        "sprite_width": 32,
-        "sprite_height": 32,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_hummingbird", "fg": 53 } ]
+        "tiles": [ { "id": "mon_green_frog", "fg": 43 } ]
       },
       {
         "file": "mon_grebe.png",
@@ -433,7 +353,7 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_grebe", "fg": 54 } ]
+        "tiles": [ { "id": "mon_grebe", "fg": 44 } ]
       },
       {
         "file": "mon_grasshopper_small.png",
@@ -441,7 +361,7 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_grasshopper_small", "fg": 55 } ]
+        "tiles": [ { "id": "mon_grasshopper_small", "fg": 45 } ]
       },
       {
         "file": "mon_goat_kid.png",
@@ -449,7 +369,7 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_goat_kid", "fg": 56 } ]
+        "tiles": [ { "id": "mon_goat_kid", "fg": 46 } ]
       },
       {
         "file": "mon_goat.png",
@@ -457,39 +377,15 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_goat", "fg": 57 } ]
+        "tiles": [ { "id": "mon_goat", "fg": 47 } ]
       },
       {
-        "file": "mon_giant_appendage_3.png",
-        "sprite_width": 32,
-        "sprite_height": 48,
+        "file": "mon_giant_appendage.png",
+        "sprite_width": 64,
+        "sprite_height": 64,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_giant_appendage_3", "fg": 58 } ]
-      },
-      {
-        "file": "mon_giant_appendage_2.png",
-        "sprite_width": 32,
-        "sprite_height": 48,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_giant_appendage_2", "fg": 59 } ]
-      },
-      {
-        "file": "mon_giant_appendage_1.png",
-        "sprite_width": 32,
-        "sprite_height": 48,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_giant_appendage_1", "fg": 60 } ]
-      },
-      {
-        "file": "mon_feral_human_pipe_fungal_infected_1.png",
-        "sprite_width": 32,
-        "sprite_height": 32,
-        "sprite_offset_x": 0,
-        "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_pipe_fungal_infected_1", "fg": 61 } ]
+        "tiles": [ { "id": "mon_giant_appendage", "fg": 48 } ]
       },
       {
         "file": "mon_feral_human_pipe_fungal_infected_0.png",
@@ -497,15 +393,15 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_pipe_fungal_infected_0", "fg": 62 } ]
+        "tiles": [ { "id": "mon_feral_human_pipe_fungal_infected_0", "fg": 49 } ]
       },
       {
-        "file": "mon_feral_human_pipe_fungal_corpse_1.png",
+        "file": "mon_feral_human_pipe_fungal_infected.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_pipe_fungal_corpse_1", "fg": 63 } ]
+        "tiles": [ { "id": "mon_feral_human_pipe_fungal_infected", "fg": 50 } ]
       },
       {
         "file": "mon_feral_human_pipe_fungal_corpse_0.png",
@@ -513,15 +409,15 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_pipe_fungal_corpse_0", "fg": 64 } ]
+        "tiles": [ { "id": "mon_feral_human_pipe_fungal_corpse_0", "fg": 51 } ]
       },
       {
-        "file": "mon_feral_human_crowbar_fungal_infected_1.png",
+        "file": "mon_feral_human_pipe_fungal_corpse.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_crowbar_fungal_infected_1", "fg": 65 } ]
+        "tiles": [ { "id": "mon_feral_human_pipe_fungal_corpse", "fg": 52 } ]
       },
       {
         "file": "mon_feral_human_crowbar_fungal_infected_0.png",
@@ -529,15 +425,15 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_crowbar_fungal_infected_0", "fg": 66 } ]
+        "tiles": [ { "id": "mon_feral_human_crowbar_fungal_infected_0", "fg": 53 } ]
       },
       {
-        "file": "mon_feral_human_crowbar_fungal_corpse_1.png",
+        "file": "mon_feral_human_crowbar_fungal_infected.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_crowbar_fungal_corpse_1", "fg": 67 } ]
+        "tiles": [ { "id": "mon_feral_human_crowbar_fungal_infected", "fg": 54 } ]
       },
       {
         "file": "mon_feral_human_crowbar_fungal_corpse_0.png",
@@ -545,15 +441,15 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_crowbar_fungal_corpse_0", "fg": 68 } ]
+        "tiles": [ { "id": "mon_feral_human_crowbar_fungal_corpse_0", "fg": 55 } ]
       },
       {
-        "file": "mon_feral_human_axe_fungal_infected_1.png",
+        "file": "mon_feral_human_crowbar_fungal_corpse.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_axe_fungal_infected_1", "fg": 69 } ]
+        "tiles": [ { "id": "mon_feral_human_crowbar_fungal_corpse", "fg": 56 } ]
       },
       {
         "file": "mon_feral_human_axe_fungal_infected_0.png",
@@ -561,15 +457,15 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_axe_fungal_infected_0", "fg": 70 } ]
+        "tiles": [ { "id": "mon_feral_human_axe_fungal_infected_0", "fg": 57 } ]
       },
       {
-        "file": "mon_feral_human_axe_fungal_corpse_1.png",
+        "file": "mon_feral_human_axe_fungal_infected.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_axe_fungal_corpse_1", "fg": 71 } ]
+        "tiles": [ { "id": "mon_feral_human_axe_fungal_infected", "fg": 58 } ]
       },
       {
         "file": "mon_feral_human_axe_fungal_corpse_0.png",
@@ -577,15 +473,23 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_feral_human_axe_fungal_corpse_0", "fg": 72 } ]
+        "tiles": [ { "id": "mon_feral_human_axe_fungal_corpse_0", "fg": 59 } ]
       },
       {
-        "file": "mon_eigenspectre_1.png",
+        "file": "mon_feral_human_axe_fungal_corpse.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_feral_human_axe_fungal_corpse", "fg": 60 } ]
+      },
+      {
+        "file": "mon_eigenspectre.png",
         "sprite_width": 32,
         "sprite_height": 48,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_eigenspectre_1", "fg": 73 } ]
+        "tiles": [ { "id": "mon_eigenspectre", "fg": 61 } ]
       },
       {
         "file": "mon_diving_larva.png",
@@ -593,7 +497,7 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_diving_larva", "fg": 74 } ]
+        "tiles": [ { "id": "mon_diving_larva", "fg": 62 } ]
       },
       {
         "file": "mon_diving_beetle_small.png",
@@ -601,7 +505,7 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_diving_beetle_small", "fg": 75 } ]
+        "tiles": [ { "id": "mon_diving_beetle_small", "fg": 63 } ]
       },
       {
         "file": "mon_cormorant.png",
@@ -609,7 +513,7 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_cormorant", "fg": 76 } ]
+        "tiles": [ { "id": "mon_cormorant", "fg": 64 } ]
       },
       {
         "file": "mon_coot.png",
@@ -617,7 +521,7 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_coot", "fg": 77 } ]
+        "tiles": [ { "id": "mon_coot", "fg": 65 } ]
       },
       {
         "file": "mon_centipede_larva.png",
@@ -625,7 +529,39 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_centipede_larva", "fg": 78 } ]
+        "tiles": [ { "id": "mon_centipede_larva", "fg": 66 } ]
+      },
+      {
+        "file": "mon_centipede_house_small.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_centipede_house_small", "fg": 67 } ]
+      },
+      {
+        "file": "mon_centipede_house_larva.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_centipede_house_larva", "fg": 68 } ]
+      },
+      {
+        "file": "mon_centipede_house.png",
+        "sprite_width": 64,
+        "sprite_height": 64,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_centipede_house", "fg": 69 } ]
+      },
+      {
+        "file": "mon_cardinal_chick.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_cardinal_chick", "fg": 70 } ]
       },
       {
         "file": "mon_cardinal.png",
@@ -633,7 +569,7 @@
         "sprite_height": 20,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_cardinal", "fg": 79 } ]
+        "tiles": [ { "id": "mon_cardinal", "fg": 71 } ]
       },
       {
         "file": "mon_bullfrog_frog.png",
@@ -641,7 +577,15 @@
         "sprite_height": 20,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_bullfrog_frog", "fg": 80 } ]
+        "tiles": [ { "id": "mon_bullfrog_frog", "fg": 72 } ]
+      },
+      {
+        "file": "mon_bluejay_chick.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_bluejay_chick", "fg": 73 } ]
       },
       {
         "file": "mon_big_rat.png",
@@ -649,7 +593,47 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_big_rat", "fg": 81 } ]
+        "tiles": [ { "id": "mon_big_rat", "fg": 74 } ]
+      },
+      {
+        "file": "mon_bee_small_fungus.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_bee_small_fungus", "fg": 75 } ]
+      },
+      {
+        "file": "mon_bee_mega_fungus.png",
+        "sprite_width": 64,
+        "sprite_height": 64,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_bee_mega_fungus", "fg": 76 } ]
+      },
+      {
+        "file": "mon_bee_fungus.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_bee_fungus", "fg": 77 } ]
+      },
+      {
+        "file": "mon_beekeeper_fungal.png",
+        "sprite_width": 32,
+        "sprite_height": 48,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_beekeeper_fungal", "fg": 78 } ]
+      },
+      {
+        "file": "mon_bear_thorn.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_bear_thorn", "fg": 79 } ]
       },
       {
         "file": "mon_archunk_weak.png",
@@ -657,7 +641,23 @@
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_archunk_weak", "fg": 82 } ]
+        "tiles": [ { "id": "mon_archunk_weak", "fg": 80 } ]
+      },
+      {
+        "file": "mon_archunk_strong.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_archunk_strong", "fg": 81 } ]
+      },
+      {
+        "file": "mon_archunk_medium.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_archunk_medium", "fg": 82 } ]
       },
       {
         "file": "mon_antlion_larva.png",
@@ -684,20 +684,20 @@
         "tiles": [ { "id": "corpse_mon_zombie_marine_upgrade", "fg": 85 } ]
       },
       {
-        "file": "mon_zombie_marine_upgrade.png",
-        "sprite_width": 48,
+        "file": "mon_zombie_lashing.png",
+        "sprite_width": 32,
         "sprite_height": 48,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_zombie_marine_upgrade", "fg": 86 } ]
+        "tiles": [ { "id": "mon_zombie_lashing", "fg": 86 } ]
       },
       {
-        "file": "mon_zombie_kevlar_1.png",
+        "file": "mon_zombie_kevlar.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_zombie_kevlar_1", "fg": 87 } ]
+        "tiles": [ { "id": "mon_zombie_kevlar", "fg": 87 } ]
       },
       {
         "file": "mon_zap_rat.png",
@@ -820,12 +820,124 @@
         "tiles": [ { "id": "mon_robofac_camspy", "fg": 102 } ]
       },
       {
+        "file": "mon_raven.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_raven", "fg": 103 } ]
+      },
+      {
+        "file": "mon_nether_unviable_chunk.png",
+        "sprite_width": 20,
+        "sprite_height": 20,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_nether_unviable_chunk", "fg": 104 } ]
+      },
+      {
+        "file": "mon_moorhen.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_moorhen", "fg": 105 } ]
+      },
+      {
+        "file": "mon_mantis_small.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_mantis_small", "fg": 106 } ]
+      },
+      {
+        "file": "mon_mantis_mega.png",
+        "sprite_width": 64,
+        "sprite_height": 80,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_mantis_mega", "fg": 107 } ]
+      },
+      {
+        "file": "mon_llama.png",
+        "sprite_width": 48,
+        "sprite_height": 48,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_llama", "fg": 108 } ]
+      },
+      {
+        "file": "mon_lady_bug_larva.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_lady_bug_larva", "fg": 109 } ]
+      },
+      {
+        "file": "mon_lady_bug_giant.png",
+        "sprite_width": 64,
+        "sprite_height": 80,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_lady_bug_giant", "fg": 110 } ]
+      },
+      {
+        "file": "mon_lady_bug.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_lady_bug", "fg": 111 } ]
+      },
+      {
+        "file": "mon_lab_ratkin.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_lab_ratkin", "fg": 112 } ]
+      },
+      {
+        "file": "mon_hummingbird.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_hummingbird", "fg": 113 } ]
+      },
+      {
+        "file": "mon_horse_foal.png",
+        "sprite_width": 32,
+        "sprite_height": 48,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_horse_foal", "fg": 114 } ]
+      },
+      {
+        "file": "mon_green_worm.png",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_green_worm", "fg": 115 } ]
+      },
+      {
+        "file": "mon_zombie_marine_upgrade.png",
+        "sprite_width": 48,
+        "sprite_height": 48,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0,
+        "tiles": [ { "id": "mon_zombie_marine_upgrade", "fg": 116 } ]
+      },
+      {
         "file": "mon_zombie_runner_fungal.png",
         "sprite_width": 32,
         "sprite_height": 32,
         "sprite_offset_x": 0,
         "sprite_offset_y": 0,
-        "tiles": [ { "id": "mon_zombie_runner_fungal", "fg": 103 } ]
+        "tiles": [ { "id": "mon_zombie_runner_fungal", "fg": 117 } ]
       }
     ]
   }
